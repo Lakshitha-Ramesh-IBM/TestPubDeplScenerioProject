@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestPubDeplScenerioProject
+  gitServerName: lakshitha
+  gitUrl: https://github.com/Lakshitha-Ramesh-IBM
+  gitUsername: Lakshitha-Ramesh-IBM
+  gitBranch: main
